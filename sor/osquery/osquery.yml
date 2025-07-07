@@ -20,7 +20,6 @@ auth:
       username: "{{Input Required: Username}}"
       password: "{{Input Required: Password}}"
 entities:
-  # States
   Linux_Incidents:
     displayName: Linux Incidents
     externalId: linux_incidents
