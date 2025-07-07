@@ -1,0 +1,59 @@
+# State Code Lookup
+displayName: "Osquery"
+icon: |
+  PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIEdlbmVyYXRvcjogU1ZHIFJlcG8gTWl4ZXIgVG9vbHMgLS0+Cjxzdmcgd2lkdGg9IjgwMHB4IiBoZWlnaHQ9IjgwMHB4IiB2aWV3Qm94PSIwIC0wLjUgMjU2IDI1NiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+Cgk8Zz4KCQk8cGF0aCBkPSJNMjU1LjIxNDYxNywwLjI1NzU4MDI0NyBMMjU1LjIxNDYxNyw2My45OTM2NzkgTDE5MS42MDk2NzksMTI3LjU5ODYxNyBMMTkxLjYwOTY3OSw2My43Mjk3Nzc4IEwyNTUuMjE0NjE3LDAuMjU3NTgwMjQ3IiBmaWxsPSIjQTU5NkZGIj4KCjwvcGF0aD4KCQk8cGF0aCBkPSJNMTI4LjAwNjMyMSwwLjI1NzU4MDI0NyBMMTI4LjAwNjMyMSw2My45OTM2NzkgTDE5MS42MTEyNTksMTI3LjU5ODYxNyBMMTkxLjYxMTI1OSw2My43Mjk3Nzc4IEwxMjguMDA2MzIxLDAuMjU3NTgwMjQ3IiBmaWxsPSIjMDAwMDAwIj4KCjwvcGF0aD4KCQk8cGF0aCBkPSJNMjU1LjM0NTc3OCwyNTQuODAzNzUzIEwxOTEuNjA5Njc5LDI1NC44MDM3NTMgTDEyOC4wMDQ3NDEsMTkxLjE5ODgxNSBMMTkxLjg3MiwxOTEuMTk4ODE1IEwyNTUuMzQ1Nzc4LDI1NC44MDM3NTMiIGZpbGw9IiNBNTk2RkYiPgoKPC9wYXRoPgoJCTxwYXRoIGQ9Ik0yNTUuMzQ1Nzc4LDEyNy41OTU0NTcgTDE5MS42MDk2NzksMTI3LjU5NTQ1NyBMMTI4LjAwNDc0MSwxOTEuMjAwMzk1IEwxOTEuODcyLDE5MS4yMDAzOTUgTDI1NS4zNDU3NzgsMTI3LjU5NTQ1NyIgZmlsbD0iIzAwMDAwMCI+Cgo8L3BhdGg+CgkJPHBhdGggZD0iTTAuODAxMTg1MTg1LDI1NC45MzY0OTQgTDAuODAxMTg1MTg1LDE5MS4xOTg4MTUgTDY0LjQwNjEyMzUsMTI3LjU5Mzg3NyBMNjQuNDA2MTIzNSwxOTEuNDYyNzE2IEwwLjgwMTE4NTE4NSwyNTQuOTM2NDk0IiBmaWxsPSIjQTU5NkZGIj4KCjwvcGF0aD4KCQk8cGF0aCBkPSJNMTI4LjAwOTQ4MSwyNTQuOTM2NDk0IEwxMjguMDA5NDgxLDE5MS4xOTg4MTUgTDY0LjQwNDU0MzIsMTI3LjU5Mzg3NyBMNjQuNDA0NTQzMiwxOTEuNDYyNzE2IEwxMjguMDA5NDgxLDI1NC45MzY0OTQiIGZpbGw9IiMwMDAwMDAiPgoKPC9wYXRoPgoJCTxwYXRoIGQ9Ik0wLjY3MTYwNDkzOCwwLjM4NTU4MDI0NyBMNjQuNDA3NzAzNywwLjM4NTU4MDI0NyBMMTI4LjAxMjY0Miw2My45OTA1MTg1IEw2NC4xNDUzODI3LDYzLjk5MDUxODUgTDAuNjcxNjA0OTM4LDAuMzg1NTgwMjQ3IiBmaWxsPSIjQTU5NkZGIj4KCjwvcGF0aD4KCQk8cGF0aCBkPSJNMC42NzE2MDQ5MzgsMTI3LjU5Mzg3NyBMNjQuNDA3NzAzNywxMjcuNTkzODc3IEwxMjguMDEyNjQyLDYzLjk4ODkzODMgTDY0LjE0NTM4MjcsNjMuOTg4OTM4MyBMMC42NzE2MDQ5MzgsMTI3LjU5Mzg3NyIgZmlsbD0iIzAwMDAwMCI+Cgo8L3BhdGg+Cgk8L2c+Cjwvc3ZnPg==
+description: "Osquery"
+defaultSyncFrequency: HOURLY
+defaultSyncMinInterval: 1
+defaultApiCallFrequency: SECONDLY
+defaultApiCallMinInterval: 1
+type: "S3-1.0.0"
+adapterConfig: ewogICJyZWdpb24iOiJ1cy1lYXN0LTIiLAogICJidWNrZXQiOiJzZ25sLXNlLXMzLWJ1Y2tldC1zYW5kYm94Igp9
+# Example Config:
+#{
+#  "region":"us-east-2",
+#  "bucket":"sgnl-se-s3-bucket-sandbox"
+#}
+# All auth mechanisms specified below must be supported by the specified Adapter.
+auth:
+  - basic:
+      username: "{{Input Required: Username}}"
+      password: "{{Input Required: Password}}"
+entities:
+  # States
+  Linux_Incidents:
+    displayName: Linux Incidents
+    externalId: linux_incidents
+    description: Linux Incidents
+    attributes:
+      - name: incident_id
+        externalId: incident_id
+        type: String
+        description: Incident ID
+        indexed: true
+        uniqueId: true
+      - name: hostname
+        externalId: hostname
+        type: String
+        description: Hostname
+        indexed: true
+      - name: ip_address
+        externalId: ip_address
+        type: String
+        description: IP Address
+        indexed: true
+      - name: incident_type
+        externalId: incident_type
+        type: String
+        description: Incident Type
+        indexed: true
+      - name: username
+        externalId: username
+        type: String
+        description: Username
+        indexed: true
+      - name: details
+        externalId: details
+        type: String
+        description: Details
+        indexed: true
