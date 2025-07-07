@@ -108,7 +108,7 @@ Sample of csv output can be found here: <a href="sor/osquery/csv/linux_incidents
 
 ## How SGNL Osquery SoR Interprets The CSV File and Inserts Into the Identity Graph
 
-Before SGNL can process inbound data (whethere CSV, JSON from API) it leverages anchors in the data, which SGNL refers to as external IDs.  
+Before SGNL can process inbound data (whether CSV, JSON from API) it leverages anchors in the data, which SGNL refers to as external IDs.  
 
 Systems of Records leverage adpaters to retrieve data.  When the data is returned SGNL leverages anchors (referred to as <span style="color: #0066cc;">external IDs</span>) in the data to map to the entities and attributes defined.
 
