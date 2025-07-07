@@ -1,0 +1,4 @@
+## code changes will send PR to following users: sales-engineering
+# Assign ownership of specific directories to @joewelsh
+sor/osquery/* @joewelsh
+docs/* @joewelsh
