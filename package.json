@@ -1,0 +1,10 @@
+{
+  "name": "sgnl-osquery-sor-example",
+  "version": "1.0.0",
+  "description": "SGNL Osquery System of Record Example",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
+

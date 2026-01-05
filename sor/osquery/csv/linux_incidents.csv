@@ -69,7 +69,7 @@ SELECT
 FROM user_incidents ui
 CROSS JOIN system_context sc
 CROSS JOIN network_context nc
-ORDER BY ui.timestamp DESC;","2025-07-07 02:22:34"
+ORDER BY ui.timestamp DESC;",7/7/25 2:22
 20250707022234-2181887025779600882,ip-172-31-11-140.us-east-2.compute.internal,172.17.0.1,suspicious_process,ec2-user,"sudo: sudo osqueryi --csv --separator , WITH system_context AS (
     -- Get hostname
     SELECT hostname FROM system_info LIMIT 1
@@ -140,7 +140,7 @@ SELECT
 FROM user_incidents ui
 CROSS JOIN system_context sc
 CROSS JOIN network_context nc
-ORDER BY ui.timestamp DESC;","2025-07-07 02:22:34"
+ORDER BY ui.timestamp DESC;",7/7/25 2:22
 20250707022234-6585125620238559875,ip-172-31-11-140.us-east-2.compute.internal,172.17.0.1,suspicious_process,root,"osqueryi: osqueryi --csv --separator , WITH system_context AS (
     -- Get hostname
     SELECT hostname FROM system_info LIMIT 1
@@ -211,7 +211,7 @@ SELECT
 FROM user_incidents ui
 CROSS JOIN system_context sc
 CROSS JOIN network_context nc
-ORDER BY ui.timestamp DESC;","2025-07-07 02:22:34"
-20250707022234-625862733721182324,ip-172-31-11-140.us-east-2.compute.internal,172.17.0.1,network_connection,lisa.galia,"0.0.0.0:8888 -> 0.0.0.0:0","2025-07-07 02:22:34"
-20250707022234-8415574763720568311,ip-172-31-11-140.us-east-2.compute.internal,172.17.0.1,network_connection,root,"127.0.0.1:32813 -> 0.0.0.0:0","2025-07-07 02:22:34"
-20250707022234-8915688547970233327,ip-172-31-11-140.us-east-2.compute.internal,172.17.0.1,suspicious_process,lisa.galia,"python3: python3 -m http.server 8888","2025-07-07 01:11:04"
+ORDER BY ui.timestamp DESC;",7/7/25 2:22
+20250707022234-625862733721182324,ip-172-31-11-140.us-east-2.compute.internal,172.17.0.1,network_connection,lisa.galia,0.0.0.0:8888 -> 0.0.0.0:0,7/7/25 2:22
+20250707022234-8415574763720568311,ip-172-31-11-140.us-east-2.compute.internal,172.17.0.1,network_connection,root,127.0.0.1:32813 -> 0.0.0.0:0,7/7/25 2:22
+20250707022234-8915688547970233327,ip-172-31-11-140.us-east-2.compute.internal,172.17.0.1,suspicious_process,lisa.galia,python3: python3 -m http.server 8888,7/7/25 1:11
